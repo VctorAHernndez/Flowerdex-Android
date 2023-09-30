@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Flowerdex</string>
+    <string name="TOKEN">-wNgf1Lzwh__BwM_7iGot107arhbUbkFtFsCWtZI8lY</string>
+
+    <string name="BASE_URL">"https://trefle.io/"</string>
+
+    <string name="plant_name">Plant Name</string>
+    <string name="scientific_name">Scientific Name</string>
+    <string name="year">Year</string>
+    <string name="author">Author</string>
+    <string name="plant_display">Plant Display</string>
+    <string name="enter">Enter</string>
+    <string name="escriba_nombre_de_planta">Search for plant</string>
+    <string name="filter_menu">Filter Menu</string>
+    <string name="nombre_sci">Scientific Name</string>
+    <string name="edible">Edible</string>
+    <string name="flower_color">Flower Color</string>
+    <string name="not_edible">Not Edible</string>
+    <string name="not_vegetable">Not Vegetable</string>
+    <string name="vegetable">Vegetable</string>
+    <string name="apply">Apply</string>
+    <string name="password">Password</string>
+    <string name="e_mail">Email</string>
+    <string name="register">Register</string>
+    <string name="re_type_password">Re-type Password</string>
+    <string name="your_name">Full Name</string>
+
+</resources>
